@@ -1,0 +1,21 @@
+{
+  "name": "chat-gpt-vercel",
+  "version": "1.0.0",
+  "description": "Playing with OpenIA chat",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.2.2",
+    "dotenv": "^16.0.3",
+    "moment": "^2.29.4",
+    "node-telegram-bot-api": "^0.61.0"
+  },
+  "devDependencies": {
+    "ngrok": "^4.3.3"
+  }
+}
